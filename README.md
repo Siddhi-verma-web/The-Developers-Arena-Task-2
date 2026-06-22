@@ -1,118 +1,91 @@
-# Personal Portfolio Website – Siddhi Verma
+# Personal Portfolio Website
 
 ## Project Overview
 
-This is a personal portfolio website developed using HTML5. The website showcases my profile, technical skills, education, projects, certifications, internship experience, and contact information. It serves as a professional portfolio to highlight my learning journey and achievements in web development.
+This is a responsive Personal Portfolio Website developed using HTML and CSS. The website showcases my education, technical skills, projects, certifications, internships, and contact information in a modern and user-friendly interface.
 
 ## Features
 
-* Personal introduction section
-* Navigation menu with internal links
-* Education details
-* Technical skills section
-* Project showcase with live project links
-* Certifications section with certificate links
-* Internship experience details
-* Resume download option
-* Contact form
-* GitHub and LinkedIn profile links
-* Profile image
+- Responsive Design
+- About Me Section
+- Education Section
+- Skills Section
+- Projects Showcase
+- Certifications Section
+- Internship Experience
+- Contact Form
+- Get In Touch Section
+- Resume Download Option
 
 ## Technologies Used
 
-* HTML5
+- HTML5
+- CSS3
+- Font Awesome Icons
+- Google Fonts
 
-## Folder Structure
+## Project Structure
 
-Portfolio/
+```
+Portfolio Website/
 │
 ├── index.html
+├── style2.css
 ├── README.md
-├── siddhi image.jpeg
 ├── siddhi_verma_resume.pdf
-│
-└── images/
+├── siddhi image.jpeg
 ├── studysync dashboard.png
-└── AI themed landing page 2.png
-
-## HTML Concepts Learned
-
-During this project, I learned:
-
-* HTML document structure
-* Semantic HTML tags
-* Headings and paragraphs
-* Ordered and unordered lists
-* Images and hyperlinks
-* Internal page navigation
-* Forms and input validation
-* Sections and content organization
-* Resume download functionality
-
-## Projects Included
-
-### StudySync – Student Productivity Dashboard
-
-A productivity dashboard that helps students manage tasks, notes, and study schedules efficiently.
-
-### AI-Themed Landing Page
-
-A modern responsive landing page featuring interactive sections, testimonials, FAQs, and pricing components.
-
-### Smart Password Strength Checker
-
-A JavaScript-based password strength checker that provides real-time feedback and security suggestions.
+├── AI themed landing page 2.png
+│
+└── visual documentation/
+```
 
 ## Setup Instructions
 
 1. Download or clone the repository.
 2. Open the project folder in VS Code.
-3. Open the index.html file.
-4. Run the file using Live Server or any web browser.
+3. Open the `index.html` file.
+4. Run using Live Server extension.
+5. View the website in your browser.
 
-## Testing
+## Sections Included
 
-* Verified all navigation links.
-* Checked image loading.
-* Tested external project links.
-* Tested contact form validation.
-* Confirmed resume download functionality.
-* Validated overall HTML structure.
+### About
+Personal introduction, career objective, projects, certifications, and internship statistics.
 
-## Author
+### Education
+Academic information and degree progress.
 
-Siddhi Verma
+### Skills
+Programming languages, tools, and technical skills.
 
-B.Tech Computer Science and Engineering
+### Projects
+- StudySync Dashboard
+- AI Themed Landing Page
+- Smart Password Strength Checker
 
-Mangalayatan University, Aligarh
+### Certifications
+- Blockchain and its Applications (NPTEL)
+- Introduction to Web Development
+- Excel Automation using ChatGPT
+- Hack & Forge Web Development Summit
 
-GitHub: https://github.com/Siddhi-verma-web
+### Internships
+- The Developers Arena
+- Galgotias University (Computer Vision Research)
+- Eddy Tools Tech Solutions
 
-LinkedIn: https://www.linkedin.com/in/siddhi-verma-463632361/
-# Personal Portfolio Website
-
-## Project Overview
-A responsive personal portfolio website developed using HTML and CSS.
-
-## Features
-- About Section
-- Education Section
-- Skills Section
-- Projects Section
-- Certifications
-- Internships
-- Contact Form
-- Responsive Design
-
-## Technologies Used
-- HTML5
-- CSS3
-
-## Folder Structure
-index.html
-style2.css
-images/
+### Contact
+Contact form and professional profile links.
 
 ## Author
-Siddhi Verma
+
+**Siddhi Verma**
+
+B.Tech Computer Science and Engineering  
+Mangalayatan University
+
+
+## GitHub Repository
+
+Add your GitHub repository link here.
